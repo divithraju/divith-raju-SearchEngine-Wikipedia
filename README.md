@@ -1,2 +1,2 @@
-# search-engime
+# search-engine
 search engine optimization
